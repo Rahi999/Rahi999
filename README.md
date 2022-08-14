@@ -12,7 +12,13 @@ Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack So
  Location : Gopalganj, Bihar-841438,
  Checkout My Portfolio : ,
  
-                       Languages & Tools :
+ Connect Me on Social Media...
+ Linkedin :  https://www.linkedin.com/in/rahim-ansari-43861922b
+ Twitter :  https://twitter.com/AhilHussain8
+ 
+ 
+                    ***   Languages & Tools :   ***
+                    *Tools*
                        1. React
                        2. Redux
                        3. Cypress
@@ -21,5 +27,15 @@ Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack So
                        6. Dom Manipulation
                        7 HTML
                        8 CSS
+                     
+                     *Languages*
+                        1. English 
+                        2. Hindi
+                        3. Bhojpuri
                       
- 
+                   *** Some Of My Projects : ***
+                   1. NordstromRack.com :  https://dapper-pony-7db47d.netlify.app
+                   2. ESPN Crickinfo.com : https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/
+                   3. Stylecraze.com :     https://singular-hamster-a3212e.netlify.app
+                   4. LoseIt.com :         https://csb-ldmrix.netlify.app/
+                   5. Portfolio : 
