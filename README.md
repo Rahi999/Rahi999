@@ -10,7 +10,7 @@ Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack So
  Email : ahilh871@gmail.com,
  Contact/Whatsapp : 8084216452,
  Location : Gopalganj, Bihar-841438,
- Checkout My Portfolio : https://rahi-portfolio.netlify.app/ ,
+ Checkout My Portfolio : https://rahim-portfolio.netlify.app/ ,
  
  Connect Me on Social Media...
  Linkedin :  https://www.linkedin.com/in/rahim-ansari-43861922b
