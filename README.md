@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Basics Of Typescript
 - 💞️ I’m looking to collaborate on React-Redux
 
-Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack Software Development course from Masai School, Bangalore with excellent academic background and diverse skillset. Experience in 6 Projects in web development. I am well versed with React, Redux,Cypress, Basics of TypeScrit, Javascript, Dom-Manipulation, HTML, and CSS.looking to start a career as an entry-level software developer in a reputed Tech/Product Base Company With Highly Skills of Good Communication, Frontend coding,  Problem Solving, Team Work, Remote Work, Computer Literacy and Project Management..
+Hi, i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack Software Development course from Masai School, Bangalore with excellent academic background and diverse skillset. Experience in 6 Projects in web development. I am well versed with React, Redux,Cypress, Basics of TypeScrit, Javascript, Dom-Manipulation, HTML, and CSS.looking to start a career as an entry-level software developer in a reputed Tech/Product Base Company With Highly Skills of Good Communication, Frontend coding,  Problem Solving, Team Work, Remote Work, Computer Literacy and Project Management..
 
 
 - 📫 How to reach me...
