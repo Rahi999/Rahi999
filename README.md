@@ -10,7 +10,7 @@ Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack So
  Email : ahilh871@gmail.com,
  Contact/Whatsapp : 8084216452,
  Location : Gopalganj, Bihar-841438,
- Checkout My Portfolio : https://rahim-portfolio.netlify.app/ ,
+ Checkout My Portfolio : https://rahi-portfolio-1.netlify.app/ ,
  
  Connect Me on Social Media...
  Linkedin :  https://www.linkedin.com/in/rahim-ansari-43861922b
@@ -34,8 +34,10 @@ Hi i am Rahim Ansari,12th standard student, pursuing B.Sc. and Did Full Stack So
                         3. Bhojpuri
                       
                    *** Some Of My Projects : ***
-                   1. NordstromRack.com :  https://dapper-pony-7db47d.netlify.app
-                   2. ESPN Crickinfo.com : https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/
-                   3. Stylecraze.com :     https://singular-hamster-a3212e.netlify.app
-                   4. LoseIt.com :         https://csb-ldmrix.netlify.app/
-                   5. Portfolio :          https://rahim-ansari-portfolio.netlify.app/
+                   
+                   1. Rentomojo.com(clone) :   https://csb-v02nso.netlify.app/
+                   2. NordstromRack.com    :   https://dapper-pony-7db47d.netlify.app
+                   3. ESPN Crickinfo.com   :   https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/
+                   4. Stylecraze.com       :   https://singular-hamster-a3212e.netlify.app
+                   5. LoseIt.com           :   https://csb-ldmrix.netlify.app/
+                   6. Portfolio            :   https://rahi-portfolio-1.netlify.app/ 
