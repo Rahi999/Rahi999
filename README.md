@@ -35,6 +35,9 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/rahim-ansari-43861922b")
 [![twitter Badge](https://img.shields.io/badge/-blue?style=flat&logo=twitter&logoColor=white)]("https://twitter.com/AhilHussain8")
+ <a href="https://rahi-portfolio-1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+  </a>
  <div>Contact Me At :</h2>
  <ul><li>Email : ahilh871@gmail.com or rahimansari4560@gmail.com</li>
  <li>Contact/Phone Number : 8084216452</li>
