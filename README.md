@@ -51,13 +51,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="Basics Of TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+ </div>
+ 
+ <div align="center">
+ <img src="https://www.pngkey.com/png/full/522-5228351_traversing-and-manipulating-the-dom-with-javascript-document.png" title="Dom-Manipulation" alt="dom-Manipulation" width="40" height="40"/>
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="Basics Of TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" title="Cypress" alt="Cypress" width="40" height="40"/>
   
   <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/>
   
   <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" title="Vercel" alt="Vercel" width="40" height="40"/>
-</div>
+
+   
+ </div>
+ 
 
 ### :hammer_and_wrench: Languages :
 <div>
