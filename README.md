@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rahim-ansari-43861922b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://rahim-ansari-connect.netlify.app/">
+  <a href="https://rahim-ansari-masai.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/AhilHussain8">
@@ -96,7 +96,7 @@ href="https://csb-v02nso.netlify.app/">
   </a> </div>
   
   <div>
-   <a href="https://rahim-ansari-connect.netlify.app/">
+   <a href="https://rahim-ansari-masai.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a> </div>
   <div>
