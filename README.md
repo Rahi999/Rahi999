@@ -117,7 +117,7 @@ href="https://csb-v02nso.netlify.app/">
    <a href="https://singular-hamster-a3212e.netlify.app">
     <img src="https://img.shields.io/badge/Stylecraze.com-teal?style=for-the-badge&logo=Stylecraze.com&logoColor=white" alt="Rentomojo Badge"/>
   </a></div>
-  
+  <p></p>
 </div>
 
 
