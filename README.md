@@ -23,8 +23,9 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
@@ -39,6 +40,7 @@
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
+<hr />
 ### :hammer_and_wrench: Tools :
 
 <div align="center">
@@ -64,7 +66,7 @@
    
  </div>
  
-
+<hr />
 ### :hammer_and_wrench: Languages :
 <div>
  <ul>
@@ -74,6 +76,7 @@
  <li>Bhojpuri : Read,Write and Speak: Native.</li>
  </ul>
 </div>
+<hr />
 
 ### :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahi999&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -82,6 +85,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr />
 
 ### :fire: Checkout Some of My Good Projects : 
 
