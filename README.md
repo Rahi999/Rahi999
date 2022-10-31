@@ -26,21 +26,19 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
-<div>- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Web Developer.</div>
-- :telescope:  I’m looking to collaborate on React-Redux
 
-- :seedling: Exploring Technical Content Writing.
+### Hi there 👋
+* 👂 My name is Rahim Ansari,
+* 👨 Pronouns: Rahim Ansari,
+* 🔭 I’m currently working on Frontend,
+* 🌱 I’m currently learning Material-UI,
+* 🤝 I’m looking to collaborate on React-Redux With Developers,
+* 🤔 I’m looking for help to start my Career in Software Development,
+* 💬 Ask me about Project Building,
+* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Website</a>
+* ❤️ I love Frontend Coding,
+* ⚡ Fun fact: Still Finding...
 
-- :zap: In my free time, I solve DSA problems and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/rahim-ansari-43861922b")
-[![twitter Badge](https://img.shields.io/badge/-blue?style=flat&logo=twitter&logoColor=white)]("https://twitter.com/AhilHussain8")
- 
- <div>Contact Me At :</h2>
- <ul><li>Email : ahilh871@gmail.com or rahimansari4560@gmail.com</li>
- <li>Contact/Phone Number : 8084216452</li>
- </ul>
-<h2></div>
 ### :hammer_and_wrench: Tools :
 
 <div align="center">
