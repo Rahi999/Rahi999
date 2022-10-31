@@ -35,7 +35,7 @@
 * 🤝 I’m looking to collaborate on React-Redux With Developers,
 * 🤔 I’m looking for help to start my Career in Software Development,
 * 💬 Ask me about Project Building,
-* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Website</a>
+* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="blank"> Visit My Website</a>
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
@@ -68,9 +68,10 @@
 ### :hammer_and_wrench: Languages :
 <div>
  <ul>
- <li>English : Read,Write and Native</li>
- <li>Hindi : Read,Write and Native</li>
- <li>Bhojpuri : Read,Write and Native</li>
+ <li>English : Read,Write and Speak: Native,</li>
+ <li>Hindi : Read,Write and Speak: Native,</li>
+ <li>Urdu : Read and Write,</li>
+ <li>Bhojpuri : Read,Write and Speak: Native.</li>
  </ul>
 </div>
 
