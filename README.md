@@ -15,7 +15,7 @@
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Rahi999&style=flat-square&color=blue" alt=""/></div>
 <h1 align="center">
-  Hey there
+  Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Rahim Ansari
 </h1>
@@ -85,35 +85,34 @@
 ### :fire: Checkout Some of My Good Projects : 
 
 
-
 <div id="badges">
  <div>
  <a
 href="https://csb-v02nso.netlify.app/">
-    <img src="https://img.shields.io/badge/Rentomojo.com-teal?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/Rentomojo.com-maroon?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
   </a> </div>
   
   <div>
    <a href="https://rahim-ansari-masai.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a> </div>
   <div>
 <a href="https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/">
-    <img src="https://img.shields.io/badge/ESPNcrickinfo-teal?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/ESPNcrickinfo.com-maroon?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
   </a> </div>
   
   <div>
   <a href="https://csb-ldmrix.netlify.app/">
-    <img src="https://img.shields.io/badge/LoseIt.com-teal?style=for-the-badge&logo=LoseIt.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/LoseIt.com-maroon?style=for-the-badge&logo=LoseIt.com&logoColor=white" alt="Rentomojo Badge"/>
   </a></div>
   <div>
   <a href="https://dapper-pony-7db47d.netlify.app">
-    <img src="https://img.shields.io/badge/NordstromRack.com-teal?style=for-the-badge&logo=NordstromRack.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/NordstromRack.com-maroon?style=for-the-badge&logo=NordstromRack.com&logoColor=white" alt="Rentomojo Badge"/>
   </a></div>
   
   <div>
    <a href="https://singular-hamster-a3212e.netlify.app">
-    <img src="https://img.shields.io/badge/Stylecraze.com-teal?style=for-the-badge&logo=Stylecraze.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/Stylecraze.com-maroon?style=for-the-badge&logo=Stylecraze.com&logoColor=white" alt="Rentomojo Badge"/>
   </a></div>
   <p></p>
 </div>
