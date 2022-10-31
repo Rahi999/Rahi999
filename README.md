@@ -47,8 +47,9 @@
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
  
  </div>
@@ -65,6 +66,24 @@
 
    
  </div>
+
+<div align="center">
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" title="VsCode" width="40" height="40" />
+ <img src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="CodeSandbox" title="CodeSandbox" width="40" height="40" />
+ <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="CodePen" title="CodePen" width="40" height="40" />
+ <img src="https://thumbs.dreamstime.com/b/npm-letter-logo-design-monogram-initials-concept-black-background-243354614.jpg" alt="NPM" title="NPM" width="40" height="40" />
+ <img src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" alt="Heroku" title="Heroku-Server" width="40" height="40" />
+</div>
+<div align="center">
+  
+  <img src="https://static.wixstatic.com/media/a59f1d_27ed537fa9d14fd5932daffe51e47369~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c/file.png" alt="Json-Server" title="Json-Server" width="40" height="40" /> 
+  
+  <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="Chakra-UI" title="Chakra-UI" width="40" height="40" /> 
+  <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" alt="Material-UI" title="Material-UI" width="40" height="40" /> 
+  <img src="https://miro.medium.com/max/730/1*dmZBftSS_u92u-n9FGpBkg.png" alt="Styled-Component" title="Styled-Component" width="40" height="40" /> 
+  <img src="https://miro.medium.com/max/796/1*P_zZlof7IhiohKQ7QEaXzA.png" alt="Jest" title="Jest-Testing" width="40" height="40" /> 
+
+</div>
  
 <hr />
 ### :hammer_and_wrench: Languages :
