@@ -30,10 +30,9 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 👨 Pronouns: Rahim Ansari,
 * 🔭 I’m currently working on Frontend,
 * 🌱 I’m currently learning Material-UI,
-* 🤝 I’m looking to collaborate on React-Redux With Developers,
+* 🤝 I’m looking to collaborate on React-Redux With Other Developers,
 * 🤔 I’m looking for help to start my Career in Software Development,
 * 💬 Ask me about Project Building,
 * 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="blank"> Visit My Website</a>
