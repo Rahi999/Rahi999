@@ -104,7 +104,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahi999" alt="rahi999" /></a> </p>
 <hr />
 
 ### :fire: Checkout Some of My Good Projects : 
@@ -141,5 +141,6 @@ href="https://csb-v02nso.netlify.app/">
   </a></div>
   <p></p>
 </div>
+
 
 
