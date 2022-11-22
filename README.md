@@ -31,12 +31,10 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🔭 I’m currently working on Frontend,
-* 🌱 I’m currently learning Material-UI,
-* 🤝 I’m looking to collaborate on React-Redux With Other Developers,
-* 🤔 I’m looking for help to start my Career in Software Development,
+* 🌱 I’m currently learning Material-UI & jQuery,
+* 🤝 I’m looking to collaborate on React-Redux ,
 * 💬 Ask me about Project Building,
-* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="blank"> Visit My Website</a>
+* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Website</a>
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
@@ -111,33 +109,38 @@
 
 
 <div id="badges">
+  <div>
+ <a
+href="https://clone-nike.netlify.app">
+    <img src="https://img.shields.io/badge/Nike.com-white?style=for-the-badge&logo=Nike.com&logoColor=black" alt="Nike Badge"/>
+  </a> </div>
  <div>
  <a
 href="https://csb-v02nso.netlify.app/">
-    <img src="https://img.shields.io/badge/Rentomojo.com-maroon?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/Rentomojo.com-white?style=for-the-badge&logo=Rentomojo.com&logoColor=black" alt="Rentomojo Badge"/>
   </a> </div>
   
   <div>
    <a href="https://rahim-ansari-masai.netlify.app/">
-    <img src="https://img.shields.io/badge/My Portfolio-maroon?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My Portfolio-white?style=for-the-badge&logo=Portfolio&logoColor=black" alt="Portfolio Badge"/>
   </a> </div>
   <div>
 <a href="https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/">
-    <img src="https://img.shields.io/badge/ESPNcrickinfo.com-maroon?style=for-the-badge&logo=Rentomojo.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/ESPNcrickinfo.com-white?style=for-the-badge&logo=Rentomojo.com&logoColor=black" alt="Rentomojo Badge"/>
   </a> </div>
   
   <div>
   <a href="https://csb-ldmrix.netlify.app/">
-    <img src="https://img.shields.io/badge/LoseIt.com-maroon?style=for-the-badge&logo=LoseIt.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/LoseIt.com-white?style=for-the-badge&logo=LoseIt.com&logoColor=black" alt="Rentomojo Badge"/>
   </a></div>
   <div>
   <a href="https://dapper-pony-7db47d.netlify.app">
-    <img src="https://img.shields.io/badge/NordstromRack.com-maroon?style=for-the-badge&logo=NordstromRack.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/NordstromRack.com-white?style=for-the-badge&logo=NordstromRack.com&logoColor=black" alt="Rentomojo Badge"/>
   </a></div>
   
   <div>
    <a href="https://singular-hamster-a3212e.netlify.app">
-    <img src="https://img.shields.io/badge/Stylecraze.com-maroon?style=for-the-badge&logo=Stylecraze.com&logoColor=white" alt="Rentomojo Badge"/>
+    <img src="https://img.shields.io/badge/Stylecraze.com-white?style=for-the-badge&logo=Stylecraze.com&logoColor=black" alt="Rentomojo Badge"/>
   </a></div>
   <p></p>
 </div>
