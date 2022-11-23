@@ -33,13 +33,13 @@
 * 👂 My name is Rahim Ansari,
 * 🌱 I’m currently learning Material-UI & jQuery,
 * 🤝 I’m looking to collaborate on React-Redux ,
-* 💬 Ask me about Project Building,
+* 💬 Ask me about Software Development,
 * 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Website</a>
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
 <hr />
-### :hammer_and_wrench: Tools :
+### :hammer_and_wrench: Skills & Tools :
 
 <div align="center">
  
