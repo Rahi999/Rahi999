@@ -34,7 +34,7 @@
 * 🌱 I’m currently learning Material-UI & jQuery,
 * 🤝 I’m looking to collaborate on React-Redux ,
 * 💬 Ask me about Software Development,
-* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Website</a>
+* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Portfolio</a>
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
