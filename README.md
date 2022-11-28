@@ -31,7 +31,7 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently learning Material-UI & jQuery,
+* 🌱 I’m currently learning Express Middleware(Backend),
 * 🤝 I’m looking to collaborate on React-Redux ,
 * 💬 Ask me about Software Development,
 * 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Portfolio</a>
