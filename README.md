@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src=https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" borderRadius="50%" width="250"/>
 </div>
 
 <div id="badges" align="center">
