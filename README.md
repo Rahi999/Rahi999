@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://rahim-ansari-masai.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=phone&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/AhilHussain8">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -31,58 +31,56 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently learning Express Middleware(Backend),
-* 🤝 I’m looking to collaborate on React-Redux ,
+* 🌱 I’m currently learning Express,
+* 🤝 I’m looking to collaborate on Frontend,
 * 💬 Ask me about Software Development,
-* 📫 How to reach me: <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Visit My Portfolio</a>
+* 📫 How to reach me: Here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love Frontend Coding,
 * ⚡ Fun fact: Still Finding...
 
 <hr />
-### :hammer_and_wrench: Skills & Tools :
 
-<div align="center">
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
- 
- </div>
- 
- <div align="center">
- <img src="https://www.pngkey.com/png/full/522-5228351_traversing-and-manipulating-the-dom-with-javascript-document.png" title="Dom-Manipulation" alt="dom-Manipulation" width="40" height="40"/>
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="Basics Of TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" title="Cypress" alt="Cypress" width="40" height="40"/>
-  
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/>
-  
-  <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" title="Vercel" alt="Vercel" width="40" height="40"/>
+Programming languages:
 
-   
- </div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript(Basics)-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-<div align="center">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" title="VsCode" width="40" height="40" />
- <img src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="CodeSandbox" title="CodeSandbox" width="40" height="40" />
- <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="CodePen" title="CodePen" width="40" height="40" />
- <img src="https://thumbs.dreamstime.com/b/npm-letter-logo-design-monogram-initials-concept-black-background-243354614.jpg" alt="NPM" title="NPM" width="40" height="40" />
- <img src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" alt="Heroku" title="Heroku-Server" width="40" height="40" />
-</div>
-<div align="center">
-  
-  <img src="https://static.wixstatic.com/media/a59f1d_27ed537fa9d14fd5932daffe51e47369~mv2.png/v1/fit/w_1000%2Ch_628%2Cal_c/file.png" alt="Json-Server" title="Json-Server" width="40" height="40" /> 
-  
-  <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="Chakra-UI" title="Chakra-UI" width="40" height="40" /> 
-  <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" alt="Material-UI" title="Material-UI" width="40" height="40" /> 
-  <img src="https://miro.medium.com/max/730/1*dmZBftSS_u92u-n9FGpBkg.png" alt="Styled-Component" title="Styled-Component" width="40" height="40" /> 
-  <img src="https://miro.medium.com/max/796/1*P_zZlof7IhiohKQ7QEaXzA.png" alt="Jest" title="Jest-Testing" width="40" height="40" /> 
-
-</div>
+Frameworks and Libraries:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-38B2AC?style=for-the-badge&logo=Redux&logoColor=white" />
  
+  <img src="https://img.shields.io/badge/Material_UI-563D7C?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-38B2AC?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery(Basics)-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+
+  
+</p>
+
+Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-66595C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-2C2255?style=for-the-badge&logo=jest&logoColor=white" />
+   <img src="https://img.shields.io/badge/node-5C2D91?style=for-the-badge&logo=node&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-66595C?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-5C2D91?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codesandbox-%23575757.svg?&style=for-the-badge&logo=codesandbox&logoColor=important" />
+   <img src="https://img.shields.io/badge/Codepen-0078D4?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku_Server-2C2255?style=for-the-badge&logo=heroku-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/glitch_server-%23575757.svg?&style=for-the-badge&logo=glitch-server&logoColor=important" />
+    <img src="https://img.shields.io/badge/netlify-2C2255?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23575757.svg?&style=for-the-badge&logo=vercel&logoColor=important" />
+</p>
+
 <hr />
 ### :hammer_and_wrench: Languages :
 <div>
@@ -99,6 +97,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahi999&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rahi999&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
