@@ -32,7 +32,7 @@
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
 * 🌱 I’m currently learning Express,
-* 🤝 I’m looking to collaborate on Frontend,
+* 🤝 I’m looking to collaborate on Dev Project,
 * 💬 Ask me about Software Development,
 * 📫 How to reach me: Here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love Frontend Coding,
