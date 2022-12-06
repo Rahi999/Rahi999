@@ -128,10 +128,7 @@ href="https://csb-v02nso.netlify.app/">
     <img src="https://img.shields.io/badge/ESPNcrickinfo.com-white?style=for-the-badge&logo=Rentomojo.com&logoColor=black" alt="Rentomojo Badge"/>
   </a> </div>
   
-  <div>
-  <a href="https://csb-ldmrix.netlify.app/">
-    <img src="https://img.shields.io/badge/LoseIt.com-white?style=for-the-badge&logo=LoseIt.com&logoColor=black" alt="Rentomojo Badge"/>
-  </a></div>
+
   <div>
   <a href="https://dapper-pony-7db47d.netlify.app">
     <img src="https://img.shields.io/badge/NordstromRack.com-white?style=for-the-badge&logo=NordstromRack.com&logoColor=black" alt="Rentomojo Badge"/>
