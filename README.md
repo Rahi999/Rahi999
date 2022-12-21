@@ -18,9 +18,9 @@
 <h1 align="center">
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Rahim Ansari <br/>
-  A Frontend Developer                                                                                  
+  I'm Rahim Ansari                                                                                   
 </h1>
+                                                                                    <h2 align="center">A Frontend Developer</h2>                                                                                 
 
 
 
