@@ -32,7 +32,7 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently learning Basics of Operating systems(OS) ,
+* 🌱 I’m currently learning Backend Development,
 * 🤝 I’m looking to collaborate on Dev Projects,
 * 💬 Ask me about Software Development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
