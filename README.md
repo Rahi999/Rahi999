@@ -31,8 +31,8 @@
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
-* 👂 My name is Rahim Ansari(NodeJS),
-* 🌱 I’m currently learning Backend Development,
+* 👂 My name is Rahim Ansari,
+* 🌱 I’m currently learning Backend Development(NodeJS),
 * 🤝 I’m looking to collaborate on Dev Projects,
 * 💬 Ask me about Software Development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
