@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://rahim-ansari-masai.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=phone&logoColor=white" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/AhilHussain8">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -37,7 +37,7 @@
 * 💬 Ask me about Software Development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love Frontend Coding,
-* ⚡ Fun fact: Still Finding....
+* ⚡ Fun fact: Still Finding...
 
 <hr />
 
