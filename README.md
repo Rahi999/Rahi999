@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Rahim Ansari                                                                                   
 </h1>
-                                                                                    <h2 align="center">A Frontend Developer</h2>                                                                                 
+                                                                                    <h2 align="center">Frontend Developer</h2>                                                                                 
 
 
 
@@ -95,8 +95,8 @@ Tools:
 <hr />
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahi999&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rahi999&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+                                                                                                                   <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Rahi999&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
