@@ -86,8 +86,8 @@ Tools:
 ### :hammer_and_wrench: Languages :
 <div>
  <ul>
- <li>English : Read,Write and Speak: Native ,</li>
- <li>Hindi : Read,Write and Speak: Native ,</li>
+ <li>English : Read,Write and Speak: Native,</li>
+ <li>Hindi : Read,Write and Speak: Native,</li>
  <li>Urdu : Read and Write,</li>
  <li>Bhojpuri : Read,Write and Speak: Native.</li>
  </ul>
