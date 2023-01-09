@@ -10,7 +10,7 @@
   <a href="https://rahim-ansari-masai.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="[https://twitter.com/AhilHussain8](https://drive.google.com/file/d/1RX5qWapl0ck053gqaIC78acOrN4ZNG7C/view)">
+  <a href="https://drive.google.com/file/d/1RX5qWapl0ck053gqaIC78acOrN4ZNG7C/view">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
