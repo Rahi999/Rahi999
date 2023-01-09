@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src=https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" borderRadius="50%" width="250"/>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" borderRadius="50%" width="250"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://rahim-ansari-masai.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="https://twitter.com/AhilHussain8">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[https://twitter.com/AhilHussain8](https://drive.google.com/file/d/1RX5qWapl0ck053gqaIC78acOrN4ZNG7C/view)">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Rahi999&style=flat-square&color=blue" alt=""/></div>
@@ -20,13 +20,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Rahim Ansari                                                                                   
 </h1>
-                                                                                    <h2 align="center">Frontend Developer</h2>                                                                                 
+                                                                                    <h2 align="center">Full Stack/Frontend Developer
+
+</h2>                                                                                 
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
 
 ### :woman_technologist: About Me :
 
@@ -36,7 +35,7 @@
 * 🤝 I’m looking to collaborate on Dev Projects,
 * 💬 Ask me about Software Development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
-* ❤️ I love Frontend Coding,
+* ❤️ I love Coding,
 * ⚡ Fun fact: Still Finding...
 
 <hr />
@@ -63,6 +62,19 @@ Frameworks and Libraries:
 
   
 </p>
+ 
+Databases :
+ <p>
+
+
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-66595C?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Atlas-339933?style=for-the-badge&logo=mongodb&logoColor=white" />
+                                                                                                  
+                                                                  
+</p>                                                                                                         
 
 Tools:
 
