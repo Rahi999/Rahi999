@@ -36,7 +36,7 @@
 * 💬 Ask me about Software Development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love Coding,
-* ⚡ Fun fact: Still Finding...
+* ⚡ Fun fact: Still Finding....
 
 <hr />
 
