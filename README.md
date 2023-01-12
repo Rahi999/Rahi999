@@ -24,19 +24,16 @@
 
 </h2>                                                                                 
 
-
-
-
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently learning Backend Development(NodeJS✓ >> Express✓ >> MongoDB⌛),
-* 🤝 I’m looking to collaborate on Dev Projects,
-* 💬 Ask me about Software Development,
+* 🌱 I’m currently learning backend development(NodeJS✓ >> Express✓ >> MongoDB⌛),
+* 🤝 I’m looking to collaborate on Dev projects,
+* 💬 Ask me about software development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
-* ❤️ I love Coding,
-* ⚡ Fun fact: Still Finding....
+* ❤️ I love coding,
+* ⚡ Fun fact: Still finding....
 
 <hr />
 
