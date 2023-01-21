@@ -28,7 +28,7 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently learning backend development(NodeJS✓ >> Express✓ >> MongoDB⌛),
+* 🌱 I’m currently working on <a href="https://github.com/Rahi999/Twitter-clone.com.git" >Twitter clone</a> project,
 * 🤝 I’m looking to collaborate on Dev projects,
 * 💬 Ask me about software development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
