@@ -28,8 +28,8 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🌱 I’m currently working on <a href="https://github.com/Rahi999/Twitter-clone.com.git" >Twitter clone</a> project,
-* 🤝 I’m looking to collaborate on Dev projects,
+* 🌱 I’m currently working as a Quality assurance engineer at Masai,
+* 🤝 Collaborating on projects with developers,
 * 💬 Ask me about software development,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love coding,
