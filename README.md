@@ -19,8 +19,7 @@
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Rahim Ansari                                                                                   
-</h1>
-                                                                                    <h2 align="center">Full stack/frontend developer
+</h1><h2 align="center">Full stack web developer / QA Engineer
 
 </h2>                                                                                 
 
@@ -30,32 +29,41 @@
 * 👂 My name is Rahim Ansari,
 * 🌱 I’m currently working as a Quality assurance engineer at Masai,
 * 🤝 Collaborating on projects with developers,
-* 💬 Ask me about software development,
-* 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
+* 💬 Ask me about software development/testing,
+* 📫 Get more about me:  <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> here</a> is my portfolio,
 * ❤️ I love coding,
-* ⚡ Fun fact: Still finding....
+* ⚡ Fun fact: Still finding...
 
 <hr />
 
+Experience:
+<ul>
+  <li><h4>QA Intern (Masai School)<p></p>Jan-2023 to May-2023</h4></li>
+  <li><h4>QA Engineer (Masai School)<p></p>May-2023 to Present</h4></li>
+</ul>
+
+<hr />
 Programming languages/technologies:
 
 <p>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript(Basics)-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 Frameworks and Libraries:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-38B2AC?style=for-the-badge&logo=Redux&logoColor=white" />
- 
   <img src="https://img.shields.io/badge/Material_UI-563D7C?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra_UI-38B2AC?style=for-the-badge&logo=chakra-ui&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery(Basics)-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-563D7C?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/Pytest-38B2AC?style=for-the-badge&logo=pytest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Allure-563D7C?style=for-the-badge&logo=allure&logoColor=white" />
 
   
 </p>
@@ -77,7 +85,8 @@ Tools:
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-5C2D91?style=for-the-badge&logo=PyCharm%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=aws&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Cypress-66595C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-2C2255?style=for-the-badge&logo=jest&logoColor=white" />
    <img src="https://img.shields.io/badge/node-5C2D91?style=for-the-badge&logo=node&logoColor=white" />
@@ -95,10 +104,10 @@ Tools:
 ### :hammer_and_wrench: Languages :
 <div>
  <ul>
- <li>English : Read,Write and Speak: Native,</li>
- <li>Hindi : Read,Write and Speak: Native,</li>
+ <li>English: Read, Write and Speak: Native,</li>
+ <li>Hindi: Read, Write and Speak: Native,</li>
  <li>Urdu : Read and Write,</li>
- <li>Bhojpuri : Read,Write and Speak: Native.</li>
+ <li>Bhojpuri: Read, Write and Speak: Native.</li>
  </ul>
 </div>
 <hr />
@@ -120,34 +129,21 @@ Tools:
 <div id="badges">
   <div>
  <a
+href="https://facebook-org.vercel.app/">
+    <img src="https://img.shields.io/badge/Facebook.com-white?style=for-the-badge&logo=Nike.com&logoColor=black" alt="FB Badge"/>
+  </a> </div>
+  <div>
+ <a
 href="https://clone-nike.netlify.app">
     <img src="https://img.shields.io/badge/Nike.com-white?style=for-the-badge&logo=Nike.com&logoColor=black" alt="Nike Badge"/>
   </a> </div>
- <div>
- <a
-href="https://csb-v02nso.netlify.app/">
-    <img src="https://img.shields.io/badge/Rentomojo.com-white?style=for-the-badge&logo=Rentomojo.com&logoColor=black" alt="Rentomojo Badge"/>
-  </a> </div>
+ 
   
   <div>
    <a href="https://rahim-ansari-masai.netlify.app/">
     <img src="https://img.shields.io/badge/My Portfolio-white?style=for-the-badge&logo=Portfolio&logoColor=black" alt="Portfolio Badge"/>
   </a> </div>
-  <div>
-<a href="https://csb-gdn25k-c0ovgbdwd-rahi.vercel.app/">
-    <img src="https://img.shields.io/badge/ESPNcrickinfo.com-white?style=for-the-badge&logo=Rentomojo.com&logoColor=black" alt="Rentomojo Badge"/>
-  </a> </div>
   
-
-  <div>
-  <a href="https://dapper-pony-7db47d.netlify.app">
-    <img src="https://img.shields.io/badge/NordstromRack.com-white?style=for-the-badge&logo=NordstromRack.com&logoColor=black" alt="Rentomojo Badge"/>
-  </a></div>
-  
-  <div>
-   <a href="https://singular-hamster-a3212e.netlify.app">
-    <img src="https://img.shields.io/badge/Stylecraze.com-white?style=for-the-badge&logo=Stylecraze.com&logoColor=black" alt="Rentomojo Badge"/>
-  </a></div>
   <p></p>
 </div>
 
