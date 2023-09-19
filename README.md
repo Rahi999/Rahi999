@@ -32,7 +32,7 @@
 * 💬 Ask me about software development/testing,
 * 📫 Get more about me:  <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> here</a> is my portfolio,
 * ❤️ I love coding,
-* ⚡ Fun fact: Still finding...
+* ⚡ Fun fact: Still finding....
 
 <hr />
 
