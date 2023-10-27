@@ -19,9 +19,7 @@
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Rahim Ansari                                                                                   
-</h1><h2 align="center">Full stack web developer / QA Engineer
-
-</h2>                                                                                 
+</h1><h2 align="center">Full stack web developer / QA Engineer</h2>                                                                                 
 
 ### :woman_technologist: About Me :
 
