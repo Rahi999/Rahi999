@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" borderRadius="50%" width="250"/>
 </div>
@@ -30,7 +29,7 @@
 * 💬 Ask me about software development/testing,
 * 📫 Get more about me:  <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> here</a> is my portfolio,
 * ❤️ I love coding,
-* ⚡ Fun fact: Still finding...
+* ⚡ Fun fact: Still finding....
 
 <hr />
 
